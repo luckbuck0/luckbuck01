@@ -1,0 +1,66 @@
+.A{
+  padding-left:20px;
+  font-family: Amatic Sc;
+  color:black
+}
+.image{
+  width:100px;
+ 
+}
+
+.top{
+  display:grid;
+  grid-template-columns: 600px 1000px 2000px;
+  }
+
+.texta
+{
+  font-family: Amatic Sc;
+  color: purple;
+  padding-left:20px
+}
+.textb
+{
+  font-family: Amatic Sc;
+  color: blue;
+}
+.textc
+{
+  font-family: Amatic Sc;
+  color: orange;
+}
+.textd
+{
+  font-family: Amatic Sc;
+  color: yellow;
+}
+.texte
+{
+  font-family: Amatic Sc;
+  color: green;
+}
+.textf
+{
+  font-family: Amatic Sc;
+  color: brown;
+}
+.textg
+{
+  font-family: Amatic Sc;
+  color: yellow;
+}
+.texth
+{
+  font-family: Amatic Sc;
+  color: orange;
+}
+.textc
+{
+  font-family: Amatic Sc;
+  color: red;
+}
+.border{
+  color:brown;
+  border:solid;
+  
+}
