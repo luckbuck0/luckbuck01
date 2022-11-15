@@ -1,5 +1,5 @@
 .A{
-  padding-left:20px;
+  padding-left:30px;
   font-family: Amatic Sc;
   color:black
 }
@@ -11,6 +11,7 @@
 .top{
   display:grid;
   grid-template-columns: 600px 1000px 2000px;
+  
   }
 
 .texta
@@ -62,5 +63,22 @@
 .border{
   color:brown;
   border:solid;
+  border-right:0px solid;
+  border-left:0px solid;
+}
+.B{ 
+    padding-left:0px;
+  font-family: Amatic Sc;
+  color:black
+}
+.catergories{
+  font-family: Amatic Sc;
+  color:brown;
+  padding-top: 10px
+}
+.brown{
+  width:200px;
+  height:300px;
+  padding-left:80px;
   
 }
